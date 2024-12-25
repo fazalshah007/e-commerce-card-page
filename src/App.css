@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background: linear-gradient(51deg, rgba(161,84,242,1) 0%, rgba(240,186,212,1) 100%);
+}
+
+h1,h3,p{
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+#heading{
+  display: block;
+  text-align: center;
+  margin-top: 1rem;
+  color: white;
+}
